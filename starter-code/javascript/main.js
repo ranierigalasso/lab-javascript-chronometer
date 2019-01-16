@@ -10,7 +10,7 @@ var milUni      = document.getElementById('milUni');
 
 
 function printTime() {
-
+  
 }
 
 function printMinutes() {
@@ -42,7 +42,7 @@ function setSplitBtn() {
 }
 
 function setStartBtn() {
-
+  
 }
 
 function setResetBtn() {
@@ -51,7 +51,7 @@ function setResetBtn() {
 
 // Start/Stop Button
 btnLeft.addEventListener('click', function () {
-
+  printTime();
 });
 
 // Reset/Split Button
